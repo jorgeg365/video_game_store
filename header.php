@@ -12,7 +12,7 @@ $currentPage = $currentPage ?? "";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($pageTitle); ?> | PixelVault Games</title>
     <link rel="stylesheet"
-          href="/video_game_store/css/style.css">
+          href="/video_game_store/css/styles.css">
 </head>
 <body>
 
