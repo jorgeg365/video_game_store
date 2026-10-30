@@ -34,7 +34,7 @@ This project was created for **CIS 344 – Chapter 5 PHP Assignment** to demonst
 - `games.php` – Dynamic video game catalog with genre filters.
 - `header.php` – Reusable website header and navigation.
 - `footer.php` – Reusable footer with dynamic copyright year.
-- `css.styles.css` – Website styling and responsive design.
+- `css/styles.css` – Website styling and responsive design.
 - `README.md` – Project documentation.
 
 ##  How to Run the Project
